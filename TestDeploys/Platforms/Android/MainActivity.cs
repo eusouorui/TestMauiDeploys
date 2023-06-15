@@ -8,4 +8,3 @@ namespace TestDeploys;
 public class MainActivity : MauiAppCompatActivity
 {
 }
-
